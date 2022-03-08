@@ -10,6 +10,7 @@ namespace Lesson2_Homework_3
     {
         static void Main(string[] args)
         {
+            //There will be homework bit mask
         }
     }
 }
